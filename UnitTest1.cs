@@ -15,6 +15,8 @@ namespace VepPrototype.DynamicLinq
 
     public class Tests
     {
+        // Here more comments as well
+
         List<VårdNivåTyp> vardNiva = new List<VårdNivåTyp>();
         List<Vårdkontakt> vardkontakt;
 
